@@ -1,5 +1,4 @@
 const cloudinary = require('cloudinary').v2;
-const { calculateObjectSize } = require('bson');
 const { CloudinaryStorage } = require('multer-storage-cloudinary');
 
 cloudinary.config({
