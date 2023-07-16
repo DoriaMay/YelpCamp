@@ -18,6 +18,6 @@ and review campgrounds
 ### How to Run
 "nodemone app.js"
 
-#### Home Page
+#### Yeplcamp Images
 
-![homepage](/readmeimg/yelpcamp.png)
+![homepage](/readmeimg/yc.png)
