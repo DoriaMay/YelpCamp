@@ -20,4 +20,4 @@ and review campgrounds
 
 #### Yeplcamp Images
 
-![homepage](/readmeimg/yc.png)
+![homepage](/readmeimg/yelpcamp.png)
